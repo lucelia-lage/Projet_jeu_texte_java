@@ -314,6 +314,8 @@ while (true) {
         }
     }
 
+    // coucou
+
     if (choice === "attention") {
         while (true) {
             console.log("Tu n'as pas envie de te faire virer de la formation. Tu fais quoi pour corriger cette situation?");
